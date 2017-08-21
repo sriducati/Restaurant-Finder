@@ -39,18 +39,7 @@
                         </div>
                 </div>
             </div>
-        </div>
-        <div class="col-md-2 col-md-offset-1">
-            <div class="panel panel-default">
-                <div class="panel-heading">Welcome</div>
-                <div class="panel-body">
-                    <div class="row">
-                        <div class="col-md-4" style="height:570px;overflow:auto">
-                        </div> 
-                    </div>
-                </div>
-            </div>  
-        </div>    
+        </div>   
     </div>
 </div>
 <script src="/js/map_api.js"></script>
