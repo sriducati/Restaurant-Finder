@@ -23,7 +23,8 @@ Additional Features Added:
 - Store Login history On redis
 - Fetch and display login history for user.
 
-Note: please check test_restaurant.sql for current DB dump.
+Note: - please check test_restaurant.sql for current DB dump.
+      -	Google map may not work on Chrome browser, If the site origin is not secured (Https).
 
 # Setup
 
