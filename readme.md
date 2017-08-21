@@ -5,6 +5,7 @@ Admin Panel:
 	-Create Restaurant
 	-Update Restaurant
 	-Delete Restaurant
+	
 ![Alt text](/public/screenshot_admin.JPG?raw=true "Enter location to get Latitude and Longitude")
 
 Visitor panel:
