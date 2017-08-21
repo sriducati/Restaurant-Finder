@@ -36,6 +36,7 @@ Note: please check test_restaurant.sql for current DB dump.
 
 - PHP7
 - Mysql5.7
+- Laravel 5.4
 - Redis-server
 
 
